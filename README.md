@@ -1,0 +1,2 @@
+# safelinkjs
+safelink
